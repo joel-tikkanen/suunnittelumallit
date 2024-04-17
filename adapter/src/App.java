@@ -43,3 +43,4 @@ public class App {
         System.out.println(adapteri.toiminto()); 
     }
 }
+
